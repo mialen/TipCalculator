@@ -9,3 +9,6 @@ TipCalculator
 * (Optional) User can select how many ways to split the tip
 * (Optional) User can edit preset tip percentages and have them persist across launches
 * (Optional) Improve the user interface and experience by using images and/or colors
+
+
+![Screen capture](tipVideo3.gif)
